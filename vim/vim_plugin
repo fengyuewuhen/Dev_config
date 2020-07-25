@@ -1,0 +1,45 @@
+sudo apt-get install vim vim-scripts vim-doc
+sudo apt-get install ctags
+sudo apt-get install vim-addon-manager
+
+vim-addons status
+
+vim-addons install align
+vim-addons install alternate
+vim-addons install bufexplorer
+vim-addons install calendar
+vim-addons install closetag
+vim-addons install colorssamplerpack
+vim-addons install cvsmenu
+vim-addons install debPlugin
+vim-addons install detectindent
+vim-addons install doxygen-toolkit
+vim-addons install editexisting
+vim-addons install enhanced-commentify
+vim-addons install gnupg
+vim-addons install info
+vim-addons install justify
+vim-addons install lbdbq
+vim-addons install markdown-syntax
+vim-addons install matchit
+vim-addons install minibufexplorer
+vim-addons install nerd-commenter
+vim-addons install omnicppcomplete
+vim-addons install po
+vim-addons install project
+vim-addons install python-indent
+vim-addons install secure-modelines
+vim-addons install snippetsEmu
+vim-addons install sokoban
+vim-addons install supertab
+vim-addons install surround
+vim-addons install taglist
+vim-addons install tetris
+vim-addons install utl
+vim-addons install vcscommand
+vim-addons install vimplate
+vim-addons install whatdomain
+vim-addons install winmanager
+vim-addons install xmledit
+
+vim-addons status
