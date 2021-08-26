@@ -9,7 +9,7 @@ vim-addons install alternate
 vim-addons install bufexplorer
 vim-addons install calendar
 vim-addons install closetag
-vim-addons install colorssamplerpack
+vim-addons install colors-sampler-pack
 vim-addons install cvsmenu
 vim-addons install debPlugin
 vim-addons install detectindent
