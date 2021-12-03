@@ -44,3 +44,6 @@ vim-addons install xmledit
 vim-addons install espeak
 
 vim-addons status
+
+git config --global core.editor "vim"
+
