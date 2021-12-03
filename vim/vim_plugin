@@ -41,5 +41,6 @@ vim-addons install vimplate
 vim-addons install whatdomain
 vim-addons install winmanager
 vim-addons install xmledit
+vim-addons install espeak
 
 vim-addons status
