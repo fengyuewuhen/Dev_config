@@ -4,6 +4,7 @@ sudo apt-get install vim-addon-manager
 sudo apt-get install byobu
 sudo apt-get install curl
 sudo apt-get install repo
+sudo apt-get install cscope
 
 curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 sudo apt-get install git-lfs
@@ -54,3 +55,4 @@ vim-addons status
 
 git config --global core.editor "vim"
 
+cp -rf cscope_maps.vim $HOME/.vim/plugin/
